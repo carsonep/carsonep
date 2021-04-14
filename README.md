@@ -22,8 +22,8 @@ My name is Carson and I am a front-end developer with the goal of becoming full-
   <img align="left" alt="Carson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
-### &#x1f4c8; GitHub Stats
+
+## &#x1f4c8; GitHub Stats
 <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carsonep&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
