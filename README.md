@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
-My name is Arunsridher and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+My name is Carson and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,6 +18,7 @@ My name is Arunsridher and I"m a Software Engineer who is passionate about build
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 <br />
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
