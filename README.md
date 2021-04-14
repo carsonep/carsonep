@@ -1,4 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/carson-peterson-84387620b/">
+  <img align="left" alt="Carson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 My name is Carson and I am a front-end developer with the goal of becoming full-stack in the near future!
 
@@ -17,10 +20,8 @@ My name is Carson and I am a front-end developer with the goal of becoming full-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br />
-<a href="https://www.linkedin.com/in/carson-peterson-84387620b/">
-  <img align="left" alt="Carson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+=
+
 
 
 ## &#x1f4c8; GitHub Stats
