@@ -1,14 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/arunsridher/">
-  <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/arunsridher">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
-
 My name is Carson and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
 ### 🛠 &nbsp;Tech Stack
@@ -25,6 +16,9 @@ My name is Carson and I"m a Software Engineer who is passionate about building t
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<a href="https://www.linkedin.com/in/carson-peterson-84387620b/">
+  <img align="left" alt="Carson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 ## &#x1f4c8; GitHub Stats
