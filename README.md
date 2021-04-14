@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Carson and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+My name is Carson and I am a front-end developer with the goal of becoming full-stack in the near future!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,7 +23,7 @@ My name is Carson and I"m a Software Engineer who is passionate about building t
 </a>
 
 <br />
-## &#x1f4c8; GitHub Stats
- <br />
+### &#x1f4c8; GitHub Stats
+<br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carsonep&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
