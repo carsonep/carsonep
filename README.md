@@ -2,6 +2,7 @@
 <a href="https://www.linkedin.com/in/carson-peterson-84387620b/">
   <img align="left" alt="Carson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
 
 My name is Carson and I am a front-end developer with the goal of becoming full-stack in the near future!
 
