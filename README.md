@@ -22,7 +22,7 @@ My name is Carson and I am a front-end developer with the goal of becoming full-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 =
-Currently Working on: ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#)&nbsp;
+Currently Working on: ![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)&nbsp;
 
 
 
