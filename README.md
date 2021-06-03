@@ -5,8 +5,6 @@
 </a>
 <br />
 
-My name is Carson and I am a front-end developer with the goal of becoming full-stack in the near future!
-
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
