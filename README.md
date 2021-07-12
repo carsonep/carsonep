@@ -1,9 +1,5 @@
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br />
-<a href="https://www.linkedin.com/in/carson-peterson-84387620b/">
-  <img align="left" alt="Carson LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -25,7 +21,4 @@ Currently Learning: <img alt="C#" src="https://img.shields.io/badge/c%23-%232391
 
 
 
-## &#x1f4c8; GitHub Stats
-<br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=carsonep&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
